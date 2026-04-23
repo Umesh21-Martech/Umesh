@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umesh Kodali</h1>
-<h3 align="center">🚀 Adobe Experience Cloud Architect | AEM • Target • Analytics • AEP</h3>
+<h3 align="center">🚀 Adobe Experience Cloud Architect | AEM • Target • Analytics • AEP • AJO</h3>
 
 <p align="center">
   Building data-driven, personalized digital experiences at scale
@@ -10,10 +10,10 @@
 ## 👨‍💻 About Me
 
 - 🔭 I specialize in designing and delivering **personalized digital experiences** using Adobe Experience Cloud  
-- ⚡ Currently working on **Adobe Experience Platform (AEP), Adobe Target, and Analytics** for real-time customer journeys  
-- 🧠 Strong focus on **data architecture, audience segmentation, and AI-driven personalization**  
+- ⚡ Currently working on **Adobe Experience Platform (AEP), Adobe Journey Optimizer (AJO), Adobe Target, and Analytics**  
+- 🧠 Strong focus on **Real-Time CDP, data architecture, audience segmentation, and AI-driven personalization**  
 - 🔗 Experienced in integrating **Salesforce, AWS, and PEGA** for unified customer profiles  
-- 📊 Passionate about turning **data into actionable insights**  
+- 📊 Passionate about turning **data into actionable insights and omnichannel experiences**  
 
 ---
 
@@ -24,8 +24,14 @@
 ![Adobe Target](https://img.shields.io/badge/Adobe%20Target-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Analytics](https://img.shields.io/badge/Adobe%20Analytics-FF0000?style=for-the-badge&logo=adobeanalytics&logoColor=white)
 ![AEP](https://img.shields.io/badge/Adobe%20Experience%20Platform-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![AJO](https://img.shields.io/badge/Adobe%20Journey%20Optimizer-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
-### 🔹 Data & Cloud
+### 🔹 Data & CDP
+![Real-Time CDP](https://img.shields.io/badge/Real--Time%20CDP-000000?style=for-the-badge)
+![XDM](https://img.shields.io/badge/XDM%20Schema-000000?style=for-the-badge)
+![Identity](https://img.shields.io/badge/Identity%20Resolution-000000?style=for-the-badge)
+
+### 🔹 Cloud & Streaming
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kinesis](https://img.shields.io/badge/AWS%20Kinesis-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
@@ -41,10 +47,17 @@
 
 ## 🚀 Featured Work
 
-### 🔹 Real-Time Customer Data Platform (AEP)
-- Designed **XDM schemas** for customer profiles, product data, and events  
+### 🔹 Real-Time Customer Data Platform (CDP - AEP)
+- Designed **XDM schemas** for profile, product, and event data  
 - Built **batch & streaming pipelines** using AWS Kinesis  
-- Enabled **unified real-time customer profiles**  
+- Implemented **identity stitching and profile unification**  
+- Enabled **Real-Time CDP for audience activation and personalization**  
+
+### 🔹 Omnichannel Journey Orchestration (AJO)
+- Designed and activated **cross-channel customer journeys** using Adobe Journey Optimizer  
+- Leveraged **real-time events and audience triggers** for personalized engagement  
+- Integrated **AEP audiences with AJO** for seamless orchestration  
+- Delivered **event-based messaging and journey optimization**  
 
 ### 🔹 Personalization Engine (Adobe Target)
 - Implemented **Auto-Target & Automated Personalization (AP)**  
@@ -61,11 +74,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Umesh21-Martech&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Umesh21-Martech&theme=radical" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Umesh21-Martech&theme=radical" />
 </p>
 
 ---
@@ -73,9 +86,10 @@
 ## 🌱 Currently Working On
 
 - 🔹 Adobe Experience Platform (Real-time CDP)  
-- 🔹 Advanced personalization strategies in Adobe Target  
+- 🔹 Adobe Journey Optimizer (AJO)  
+- 🔹 Advanced personalization in Adobe Target  
 - 🔹 Customer Journey Analytics (CJA)  
-- 🔹 Cross-platform data integration & identity resolution  
+- 🔹 Identity resolution & cross-channel data integration  
 
 ---
 
@@ -96,5 +110,5 @@
 ---
 
 <p align="center">
-  💡 "Turning data into meaningful customer experiences"
+  💡 "Turning data into real-time, personalized customer experiences"
 </p>
