@@ -1,18 +1,100 @@
-# 💫 About Me:
-Working at Verizon and Experienced Adobe Experience Cloud Architect and Developer specializing in designing and delivering personalized, data-driven digital experiences across enterprise platforms<br>Expertise in leveraging Adobe Experience Manager (AEM), Adobe Target, Adobe Analytics, and Adobe Experience Platform (AEP) to create seamless, omnichannel customer journeys<br>Strong focus on personalization strategies using real-time data, audience segmentation, and AI-driven decisioning to enhance customer engagement<br>Proven ability to implement robust analytics frameworks to measure user behavior, optimize performance, and generate actionable business insights<br>Skilled in integrating cross-platform ecosystems including Salesforce, PEGA, and AWS to enable unified customer profiles and scalable architecture<br>Track record of improving customer experience and increasing Net Satisfaction (NSAT) scores through targeted, insight-driven enhancements<br>Accelerated time-to-market by adopting Agile methodologies, optimizing development workflows, and delivering high-quality solutions aligned with business goals
+<h1 align="center">Hi 👋, I'm Umesh Kodali</h1>
+<h3 align="center">🚀 Adobe Experience Cloud Architect | AEM • Target • Analytics • AEP</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umeshk03/) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Umesh21-Martech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Umesh21-Martech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Umesh21-Martech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  Building data-driven, personalized digital experiences at scale
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Umesh21-Martech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># Umesh
+## 👨‍💻 About Me
+
+- 🔭 I specialize in designing and delivering **personalized digital experiences** using Adobe Experience Cloud  
+- ⚡ Currently working on **Adobe Experience Platform (AEP), Adobe Target, and Analytics** for real-time customer journeys  
+- 🧠 Strong focus on **data architecture, audience segmentation, and AI-driven personalization**  
+- 🔗 Experienced in integrating **Salesforce, AWS, and PEGA** for unified customer profiles  
+- 📊 Passionate about turning **data into actionable insights**  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Adobe Experience Cloud
+![AEM](https://img.shields.io/badge/AEM-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Target](https://img.shields.io/badge/Adobe%20Target-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Analytics](https://img.shields.io/badge/Adobe%20Analytics-FF0000?style=for-the-badge&logo=adobeanalytics&logoColor=white)
+![AEP](https://img.shields.io/badge/Adobe%20Experience%20Platform-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+
+### 🔹 Data & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kinesis](https://img.shields.io/badge/AWS%20Kinesis-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🔹 Integrations & Tools
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![PEGA](https://img.shields.io/badge/PEGA-0052CC?style=for-the-badge&logoColor=white)
+
+### 🔹 Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=api&logoColor=white)
+
+---
+
+## 🚀 Featured Work
+
+### 🔹 Real-Time Customer Data Platform (AEP)
+- Designed **XDM schemas** for customer profiles, product data, and events  
+- Built **batch & streaming pipelines** using AWS Kinesis  
+- Enabled **unified real-time customer profiles**  
+
+### 🔹 Personalization Engine (Adobe Target)
+- Implemented **Auto-Target & Automated Personalization (AP)**  
+- Delivered **A/B & multivariate testing strategies**  
+- Built advanced **audience segmentation and targeting**  
+
+### 🔹 Analytics & Insights Framework
+- Designed tracking using **eVars, props, and custom events**  
+- Built dashboards in **Analysis Workspace**  
+- Integrated **Adobe Analytics with AEP (CJA)** for cross-channel insights  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" alt="streak" />
+</p>
+
+---
+
+## 🌱 Currently Working On
+
+- 🔹 Adobe Experience Platform (Real-time CDP)  
+- 🔹 Advanced personalization strategies in Adobe Target  
+- 🔹 Customer Journey Analytics (CJA)  
+- 🔹 Cross-platform data integration & identity resolution  
+
+---
+
+## ⚡ Fun Facts
+
+- 🏸 Professional badminton player  
+- 🐶 Adopted 8 stray dogs  
+- 🌍 Love traveling & exploring new places  
+- 📸 Into photography, gym, and outdoor adventures  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/umeshk03  
+- 📧 Email: umesh.uk0321@gmail.com  
+
+---
+
+<p align="center">
+  💡 "Turning data into meaningful customer experiences"
+</p>
