@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Umesh21-Martech&theme=radical" alt="streak" />
 </p>
 
 ---
